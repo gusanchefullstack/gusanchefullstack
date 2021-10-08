@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome 👋
 
 <!--
 **gusanchedev/gusanchedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+This is my Github account 
+[FreeCodeCamp](https://www.freecodecamp.org/learn)
+
+### My process 
+
+## Phase 1. Responsive Web Design
+
+## Phase 2. JavaScript Algorithms and Data Structures
+
+## Phase 3. Front End Development Libraries
+
+## Phase 4. Data Visualization
+
+## Phase 5. Back End Development and APIs
+
+## Phase 6. Internet of Things (IoT) Applications
+
