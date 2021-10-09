@@ -13,7 +13,7 @@
 - ⚡ Fun fact: ...
 -->
 My name is Gustavo Sanchez. I'm from Colombia and currently I live in Cartagena. I'm commited to be a always-learning Fullstack Developer using Javascript based technologies like:
-https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg
+[](https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg)
 
 I have defined my own learning path based mainly in the [FreeCodeCamp](https://www.freecodecamp.org/learn) curriculum. You will see my projects or challenges solved in each phase below and any comment or sugestion is welcomed.
 
