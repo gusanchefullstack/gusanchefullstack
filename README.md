@@ -34,7 +34,6 @@ Challenge 1. [Order summary component](https://github.com/gusanchedev/prj-01-ord
 
 ---
 
----
 
 ## &#x1f4c8; My GitHub Stats
 
