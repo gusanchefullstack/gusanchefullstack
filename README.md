@@ -21,7 +21,7 @@ My name is Gustavo Sanchez. I'm from Colombia and currently I live in Cartagena.
 I have defined my own learning path based mainly in the [FreeCodeCamp](https://www.freecodecamp.org/learn) curriculum. You will see my projects or challenges solved in each phase below and any comment or sugestion is welcomed.
 
 ## Phase 1. Responsive Web Design 🕸
-
+Challenge 1. [Order summary component](https://github.com/gusanchedev/prj-01-order-summary-component)
 ## Phase 2. JavaScript Algorithms and Data Structures 🚀
 
 ## Phase 3. Front End Development Libraries 📚
@@ -31,4 +31,14 @@ I have defined my own learning path based mainly in the [FreeCodeCamp](https://w
 ## Phase 5. Back End Development and APIs 🏗
 
 ## Phase 6. Internet of Things (IoT) Applications 🚰
+
+---
+
+---
+
+## &#x1f4c8; My GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gusanchedev&hide=java,html,css&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=gusanchedev&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
