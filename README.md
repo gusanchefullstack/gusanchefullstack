@@ -21,7 +21,8 @@ My name is Gustavo Sanchez. I'm from Colombia and currently I live in Cartagena.
 I have defined my own learning path based mainly in the [FreeCodeCamp](https://www.freecodecamp.org/learn) curriculum. You will see my projects or challenges solved in each phase below and any comment or sugestion is welcomed.
 
 ## Phase 1. Responsive Web Design 🌍
-Challenge 1. [Order summary component](https://github.com/gusanchedev/prj-01-order-summary-component)
+- [x] Challenge 1. [Order summary component](https://github.com/gusanchedev/prj-01-order-summary-component)  
+- [x] Challenge 2. [Stats preview card component](https://github.com/gusanchedev/prj-02-stats-preview-card-component)
 ## Phase 2. JavaScript Algorithms and Data Structures 🚀
 
 ## Phase 3. Front End Development Libraries 📚
