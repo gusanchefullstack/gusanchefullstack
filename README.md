@@ -26,7 +26,8 @@ I've defined my own learning path based mainly in the [FreeCodeCamp](https://www
 - [x] Challenge 3. [3-column preview card component](https://github.com/gusanchedev/prj-03-3column-preview-card-component)
 - [x] Challenge 4. [Profile card component](https://github.com/gusanchedev/prj-04-profile-card-component)
 - [x] Challenge 5. [Testimonials grid section](https://github.com/gusanchedev/prj-05-testimonials-grid-section)
-- [ ] Challenge 6. [Social proof section](https://github.com/gusanchedev/prj-06-social-proof-section)
+- [x] Challenge 6. [Social proof section](https://github.com/gusanchedev/prj-06-social-proof-section)
+- [ ] Challenge 7. []()
 ## Phase 2. JavaScript Algorithms and Data Structures 🚀
 
 ## Phase 3. Front End Development Libraries 📚
