@@ -28,7 +28,7 @@ I've defined my own learning path based mainly in the [FreeCodeCamp](https://www
 - [x] Challenge 5. [Testimonials grid section](https://github.com/gusanchedev/prj-05-testimonials-grid-section)
 - [x] Challenge 6. [Social proof section](https://github.com/gusanchedev/prj-06-social-proof-section)
 - [x] Challenge 7. [Chat app CSS illustration](https://github.com/gusanchedev/prj-07-chat-app-css-illustration)
-- [ ] Challenge 8. [Fylo data storage component challenge](https://github.com/gusanchedev/prj-08-fylo-data-storage-component)
+- [x] Challenge 8. [Fylo data storage component challenge](https://github.com/gusanchedev/prj-08-fylo-data-storage-component)
 ## Phase 2. JavaScript Algorithms and Data Structures 🚀
 
 ## Phase 3. Front End Development Libraries 📚
