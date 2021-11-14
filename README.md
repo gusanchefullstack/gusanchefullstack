@@ -21,6 +21,7 @@ My name is Gustavo Sanchez. I'm from Colombia and currently I live in Cartagena.
 I've defined my own learning path based mainly in the [FreeCodeCamp](https://www.freecodecamp.org/learn) curriculum including the free challenges of [FrontendMentor.io](https://www.frontendmentor.io/challenges?types=free) that you can try to improve your skills in the foundation of web development: HTML, CSS and Javascript. You will see my projects or challenges solved in each phase below and any comment or sugestion is welcomed.
 
 ## Phase 1. Responsive Web Design 🌍
+Projects developed with plain HTML, CSS and Javascript:
 - [x] Challenge 1. [Order summary component](https://github.com/gusanchedev/prj-01-order-summary-component)  
 - [x] Challenge 2. [Stats preview card component](https://github.com/gusanchedev/prj-02-stats-preview-card-component)
 - [x] Challenge 3. [3-column preview card component](https://github.com/gusanchedev/prj-03-3column-preview-card-component)
@@ -29,7 +30,9 @@ I've defined my own learning path based mainly in the [FreeCodeCamp](https://www
 - [x] Challenge 6. [Social proof section](https://github.com/gusanchedev/prj-06-social-proof-section)
 - [x] Challenge 7. [Chat app CSS illustration](https://github.com/gusanchedev/prj-07-chat-app-css-illustration)
 - [x] Challenge 8. [Fylo data storage component challenge](https://github.com/gusanchedev/prj-08-fylo-data-storage-component)
-- [ ] Challenge 9. [Four card feature section challenge](https://github.com/gusanchedev/prj-09-four-card-feature-section)
+
+Projects developed with HTML, TailwindCSS and Vitejs as frontende development environment integrated to Vercel.
+- [x] Challenge 9. [Four card feature section challenge](https://github.com/gusanchedev/prj-09-four-card-feature-section)
 ## Phase 2. JavaScript Algorithms and Data Structures 🚀
 
 ## Phase 3. Front End Development Libraries 📚
