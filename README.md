@@ -33,6 +33,7 @@ Projects developed with plain HTML, CSS and Javascript:
 
 Projects developed with HTML, TailwindCSS and Vitejs as frontende development environment integrated to Vercel.
 - [x] Challenge 9. [Four card feature section challenge](https://github.com/gusanchedev/prj-09-four-card-feature-section)
+- [ ] Challenge 10. [Single price grid component](https://github.com/gusanchedev/prj-10-single-price-grid-component)
 ## Phase 2. JavaScript Algorithms and Data Structures 🚀
 
 ## Phase 3. Front End Development Libraries 📚
