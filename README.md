@@ -15,7 +15,17 @@
 
 My name is Gustavo Sanchez. I'm from Colombia and currently I live in Cartagena. I'm commited to be a always-learning Fullstack Developer using Javascript based technologies like:
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" height="40" width="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" height="40" width="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="40" width="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" height="40" width="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" height="40" width="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" height="40" width="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" height="40" width="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" height="40" width="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" height="40" width="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" height="40" width="40"/>
+### Frontend Pillars:
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" height="40" width="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" height="40" width="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="40" width="40"/>
+### CSS Libraries:
+<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" height="40" width="40"/>
+### Frontend Frameworks/Libraries:
+<img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" height="40" width="40"/>
+### Backend Technologies:
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" height="40" width="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" height="40" width="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" height="40" width="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" height="40" width="40"/>
+<img src="https://camo.githubusercontent.com/b28c698499c5f6ad3dd9e750943faeabbf30caf08d3242aaeade8f1a380ecb30/68747470733a2f2f692e696d6775722e636f6d2f373062453555592e706e67" height="40" width="40" alt="Prisma.io"/>
+### Development Tools:
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" height="40" width="40"/>
 
 ---
 I've defined my own learning path based mainly in the [FreeCodeCamp](https://www.freecodecamp.org/learn) curriculum including the free challenges of [FrontendMentor.io](https://www.frontendmentor.io/challenges?types=free) that you can try to improve your skills in the foundation of web development: HTML, CSS and Javascript. You will see my projects or challenges solved in each phase below and any comment or sugestion is welcomed.
