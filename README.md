@@ -16,14 +16,17 @@
 My name is Gustavo Sanchez. I'm from Colombia and currently I live in Cartagena. I'm commited to be a always-learning Fullstack Developer using Javascript based technologies like:
 
 ### Frontend Pillars:
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" height="40" width="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" height="40" width="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="40" width="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" height="40" width="40" alt="HTML5"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" height="40" width="40" alt="CSS"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="40" width="40" alt="Javascript"/>
+
 ### CSS Libraries:
-<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" height="40" width="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" height="40" width="40" alt="Tailwindcss"/>
+
 ### Frontend Frameworks/Libraries:
-<img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" height="40" width="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" height="40" width="40" alt="Vuejs"/>
+
 ### Backend Technologies:
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" height="40" width="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" height="40" width="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" height="40" width="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" height="40" width="40"/>
-<img src="https://camo.githubusercontent.com/b28c698499c5f6ad3dd9e750943faeabbf30caf08d3242aaeade8f1a380ecb30/68747470733a2f2f692e696d6775722e636f6d2f373062453555592e706e67" height="40" width="40" alt="Prisma.io"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" height="40" width="40" alt="Nodejs"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" height="40" width="40" alt="NPM"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" height="40" width="40" alt="Express.js"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" height="40" width="40" alt="mongoDb"/>  <img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/287/square_480/prismaHD.png" height="40" width="40" alt="Prisma.io"/>
+
 ### Development Tools:
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" height="40" width="40"/>
 
