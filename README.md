@@ -28,7 +28,7 @@ My name is Gustavo Sanchez. I'm from Colombia and currently I live in Cartagena.
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" height="40" width="40" alt="Nodejs"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" height="40" width="40" alt="NPM"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" height="40" width="40" alt="Express.js"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" height="40" width="40" alt="mongoDb"/>  <img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/287/square_480/prismaHD.png" height="40" width="40" alt="Prisma.io"/>
 
 ### Development Tools:
-<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" height="40" width="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" height="40" width="40"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" height="40" width="40"/>
 
 ---
 I've defined my own learning path based mainly in the [FreeCodeCamp](https://www.freecodecamp.org/learn) curriculum including the free challenges of [FrontendMentor.io](https://www.frontendmentor.io/challenges?types=free) that you can try to improve your skills in the foundation of web development: HTML, CSS and Javascript. You will see my projects or challenges solved in each phase below and any comment or sugestion is welcomed.
