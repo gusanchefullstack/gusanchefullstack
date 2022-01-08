@@ -49,6 +49,8 @@ Projects developed with HTML, TailwindCSS and Vitejs as frontende development en
 - [x] Challenge 10. [Single price grid component](https://github.com/gusanchedev/prj-10-single-price-grid-component)
 - [x] Challenge 11. [Clipboard landing page](https://github.com/gusanchedev/prj-11-clipboard-landing-page)
 - [x] Challenge 12. [NFT preview card component](https://github.com/gusanchedev/prj-12-nft-preview-card-component) 
+- [x] Challenge 13. [Huddle landing page with single introductory section](https://github.com/gusanchedev/prj-13-huddle-landing-page-with-single-introductory-section)
+
 ## Phase 2. JavaScript Algorithms and Data Structures 🚀
 
 ## Phase 3. Front End Development Libraries 📚
