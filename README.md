@@ -51,6 +51,7 @@ Projects developed with HTML, TailwindCSS and Vitejs as frontende development en
 - [x] Challenge 12. [NFT preview card component](https://github.com/gusanchedev/prj-12-nft-preview-card-component) 
 - [x] Challenge 13. [Huddle landing page with single introductory section](https://github.com/gusanchedev/prj-13-huddle-landing-page-with-single-introductory-section)
 - [x] Challenge 14. [Fylo landing page with two column layout solution](https://github.com/gusanchedev/prj-14-fylo-landing-page-with-two-column-layout) 
+- [x] Challenge 15. [Huddle landing page with alternating feature blocks solution](https://github.com/gusanchedev/prj-15-huddle-landing-page-with-alternating-feature-blocks) 
 
 ## Phase 2. JavaScript Algorithms and Data Structures 🚀
 
