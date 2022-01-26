@@ -57,6 +57,7 @@ Projects developed with HTML, TailwindCSS and Vitejs as frontende development en
 ## Phase 2. JavaScript Algorithms and Data Structures 🚀
 Projects developed with plain HTML, CSS/Tailwindcss and Javascript
 - [x] Challenge 1. [Intro component with sign up form solution](https://github.com/gusanchedev/prj-01-intro-component-with-signup-form) 
+- [ ] Challenge 2. [Article preview component](https://github.com/gusanchedev/prj-02-article-preview-component)
 ## Phase 3. Front End Development Libraries 📚
 
 ## Phase 4. Data Visualization 📊
