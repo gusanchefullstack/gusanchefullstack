@@ -59,6 +59,8 @@ Projects developed with plain HTML, CSS/Tailwindcss and Javascript
 - [x] Challenge 1. [Intro component with sign up form solution](https://github.com/gusanchedev/prj-01-intro-component-with-signup-form) 
 - [x] Challenge 2. [Article preview component](https://github.com/gusanchedev/prj-02-article-preview-component)
 - [x] Challenge 3. [Ping coming soon page solution](https://github.com/gusanchedev/prj-03-ping-single-column-coming-soon-page) 
+- [x] Challenge 4. [Base Apparel coming soon page](https://github.com/gusanchedev/prj-04-base-apparel-coming-soon-page)
+
 ## Phase 3. Front End Development Libraries 📚
 
 ## Phase 4. Data Visualization 📊
