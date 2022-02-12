@@ -60,6 +60,7 @@ Projects developed with plain HTML, CSS/Tailwindcss and Javascript
 - [x] Challenge 2. [Article preview component](https://github.com/gusanchedev/prj-02-article-preview-component)
 - [x] Challenge 3. [Ping coming soon page solution](https://github.com/gusanchedev/prj-03-ping-single-column-coming-soon-page) 
 - [x] Challenge 4. [Base Apparel coming soon page](https://github.com/gusanchedev/prj-04-base-apparel-coming-soon-page)
+- [x] Challenge 5. [FAQ accordion card](https://github.com/gusanchedev/prj-05-faq-accordion-card) 
 
 ## Phase 3. Front End Development Libraries 📚
 
