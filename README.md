@@ -13,7 +13,9 @@
 - ⚡ Fun fact: ...
 -->
 
-My name is Gustavo Sanchez. I'm from Colombia and currently I live in Cartagena. I'm commited to be a always-learning Fullstack Developer using Javascript based technologies like:
+My name is Gustavo Sanchez. I'm from Colombia and currently I live in Cartagena. I'm commited to be a always-learning Fullstack Developer using Javascript based technologies.
+
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=gusanche)
 ### Frontend Pillars:
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" height="40" width="40" alt="HTML5"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" height="40" width="40" alt="CSS"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="40" width="40" alt="Javascript"/>
 
