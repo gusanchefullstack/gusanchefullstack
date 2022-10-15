@@ -35,32 +35,32 @@ I've defined my own learning path based mainly in the [FreeCodeCamp](https://www
 
 ## Phase 1. Responsive Web Design 🌍
 Projects developed with plain HTML and CSS:
-- [x] Challenge 1. [Order summary component](https://github.com/gusanchedev/prj-01-order-summary-component)  
-- [x] Challenge 2. [Stats preview card component](https://github.com/gusanchedev/prj-02-stats-preview-card-component)
-- [x] Challenge 3. [3-column preview card component](https://github.com/gusanchedev/prj-03-3column-preview-card-component)
-- [x] Challenge 4. [Profile card component](https://github.com/gusanchedev/prj-04-profile-card-component)
-- [x] Challenge 5. [Testimonials grid section](https://github.com/gusanchedev/prj-05-testimonials-grid-section)
-- [x] Challenge 6. [Social proof section](https://github.com/gusanchedev/prj-06-social-proof-section)
-- [x] Challenge 7. [Chat app CSS illustration](https://github.com/gusanchedev/prj-07-chat-app-css-illustration)
-- [x] Challenge 8. [Fylo data storage component challenge](https://github.com/gusanchedev/prj-08-fylo-data-storage-component)
+- [x] Challenge 1. [Order summary component](https://github.com/gusanchefullstack/prj-01-order-summary-component)  
+- [x] Challenge 2. [Stats preview card component](https://github.com/gusanchefullstack/prj-02-stats-preview-card-component)
+- [x] Challenge 3. [3-column preview card component](https://github.com/gusanchefullstack/prj-03-3column-preview-card-component)
+- [x] Challenge 4. [Profile card component](https://github.com/gusanchefullstack/prj-04-profile-card-component)
+- [x] Challenge 5. [Testimonials grid section](https://github.com/gusanchefullstack/prj-05-testimonials-grid-section)
+- [x] Challenge 6. [Social proof section](https://github.com/gusanchefullstack/prj-06-social-proof-section)
+- [x] Challenge 7. [Chat app CSS illustration](https://github.com/gusanchefullstack/prj-07-chat-app-css-illustration)
+- [x] Challenge 8. [Fylo data storage component challenge](https://github.com/gusanchefullstack/prj-08-fylo-data-storage-component)
 
 Projects developed with HTML, TailwindCSS and Vitejs as frontende development environment integrated to Vercel.
-- [x] Challenge 9. [Four card feature section challenge](https://github.com/gusanchedev/prj-09-four-card-feature-section)
-- [x] Challenge 10. [Single price grid component](https://github.com/gusanchedev/prj-10-single-price-grid-component)
-- [x] Challenge 11. [Clipboard landing page](https://github.com/gusanchedev/prj-11-clipboard-landing-page)
-- [x] Challenge 12. [NFT preview card component](https://github.com/gusanchedev/prj-12-nft-preview-card-component) 
-- [x] Challenge 13. [Huddle landing page with single introductory section](https://github.com/gusanchedev/prj-13-huddle-landing-page-with-single-introductory-section)
-- [x] Challenge 14. [Fylo landing page with two column layout solution](https://github.com/gusanchedev/prj-14-fylo-landing-page-with-two-column-layout) 
-- [x] Challenge 15. [Huddle landing page with alternating feature blocks solution](https://github.com/gusanchedev/prj-15-huddle-landing-page-with-alternating-feature-blocks) 
-- [x] Challenge 16. [Huddle landing page with curved sections](https://github.com/gusanchedev/prj-16-huddle-landing-page-with-curved-sections)
+- [x] Challenge 9. [Four card feature section challenge](https://github.com/gusanchefullstack/prj-09-four-card-feature-section)
+- [x] Challenge 10. [Single price grid component](https://github.com/gusanchefullstack/prj-10-single-price-grid-component)
+- [x] Challenge 11. [Clipboard landing page](https://github.com/gusanchefullstack/prj-11-clipboard-landing-page)
+- [x] Challenge 12. [NFT preview card component](https://github.com/gusanchefullstack/prj-12-nft-preview-card-component) 
+- [x] Challenge 13. [Huddle landing page with single introductory section](https://github.com/gusanchefullstack/prj-13-huddle-landing-page-with-single-introductory-section)
+- [x] Challenge 14. [Fylo landing page with two column layout solution](https://github.com/gusanchefullstack/prj-14-fylo-landing-page-with-two-column-layout) 
+- [x] Challenge 15. [Huddle landing page with alternating feature blocks solution](https://github.com/gusanchefullstack/prj-15-huddle-landing-page-with-alternating-feature-blocks) 
+- [x] Challenge 16. [Huddle landing page with curved sections](https://github.com/gusanchefullstack/prj-16-huddle-landing-page-with-curved-sections)
 
 ## Phase 2. JavaScript Algorithms and Data Structures 🚀
 Projects developed with plain HTML, CSS/Tailwindcss and Javascript
-- [x] Challenge 1. [Intro component with sign up form solution](https://github.com/gusanchedev/prj-01-intro-component-with-signup-form) 
-- [x] Challenge 2. [Article preview component](https://github.com/gusanchedev/prj-02-article-preview-component)
-- [x] Challenge 3. [Ping coming soon page solution](https://github.com/gusanchedev/prj-03-ping-single-column-coming-soon-page) 
-- [x] Challenge 4. [Base Apparel coming soon page](https://github.com/gusanchedev/prj-04-base-apparel-coming-soon-page)
-- [x] Challenge 5. [FAQ accordion card](https://github.com/gusanchedev/prj-05-faq-accordion-card) 
+- [x] Challenge 1. [Intro component with sign up form solution](https://github.com/gusanchefullstack/prj-01-intro-component-with-signup-form) 
+- [x] Challenge 2. [Article preview component](https://github.com/gusanchefullstack/prj-02-article-preview-component)
+- [x] Challenge 3. [Ping coming soon page solution](https://github.com/gusanchefullstack/prj-03-ping-single-column-coming-soon-page) 
+- [x] Challenge 4. [Base Apparel coming soon page](https://github.com/gusanchefullstack/prj-04-base-apparel-coming-soon-page)
+- [x] Challenge 5. [FAQ accordion card](https://github.com/gusanchefullstack/prj-05-faq-accordion-card) 
 
 ## Phase 3. Front End Development Libraries 📚
 
@@ -75,7 +75,7 @@ Projects developed with plain HTML, CSS/Tailwindcss and Javascript
 
 ## &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gusanchedev&hide=java,html,css&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gusanchefullstack&hide=java,html,css&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=gusanchedev&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=gusanchefullstack&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
