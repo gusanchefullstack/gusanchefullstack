@@ -19,7 +19,7 @@ My name is Gustavo Sanchez. I'm from Colombia and currently I live in Cartagena.
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" height="40" width="40" alt="HTML5"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" height="40" width="40" alt="CSS"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="40" width="40" alt="Javascript"/>
 
 ### CSS Libraries:
-<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" height="40" width="40" alt="Tailwindcss"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" height="40" width="40" alt="Tailwindcss"/>
 
 ### Frontend Frameworks/Libraries:
 <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" height="40" width="40" alt="Vuejs"/>
