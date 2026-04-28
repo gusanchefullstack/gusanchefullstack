@@ -1,75 +1,112 @@
-### Welcome 👋👋👋
-
-<!--
-**gusanchedev/gusanchedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-My name is Gustavo Sanchez. I'm from Colombia and currently I live in Cartagena. I'm commited to be a always-learning Fullstack Developer using Javascript based technologies.
-
-### Frontend Pillars:
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" height="40" width="40" alt="HTML5"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" height="40" width="40" alt="CSS"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="40" width="40" alt="Javascript"/>
-
-### CSS Libraries:
-<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" height="40" width="40" alt="Tailwindcss"/>
-
-### Frontend Frameworks/Libraries:
-<img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" height="40" width="40" alt="Vuejs"/>
-
-### Backend Technologies:
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" height="40" width="40" alt="Nodejs"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" height="40" width="40" alt="NPM"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" height="40" width="40" alt="Express.js"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" height="40" width="40" alt="mongoDb"/>  <img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/287/square_480/prismaHD.png" height="40" width="40" alt="Prisma.io"/>
-
-### Development Tools:
-<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" height="40" width="40"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" height="40" width="40"/>
+<div align="center">
+  <h2>Hello, I am Gustavo Sanchez 👋</h2>
+  <h3>Building at the Intersection of Software Engineering, AI and Sales.</h3>
+  <p>Software Engineer focused in fullstack applications &amp; always in <strong>learning mode</strong></p>
+  <p>📍 San Francisco, CA / Remote / Worldwide &nbsp;&nbsp;|&nbsp;&nbsp; 💼 Open to full-time roles</p>
+  <br/>
+  <a href="https://gustavosanchez.dev">🌐 gustavosanchez.dev</a>
+</div>
 
 ---
-I've defined my own learning path based mainly in the [FreeCodeCamp](https://www.freecodecamp.org/learn) curriculum including the free challenges of [FrontendMentor.io](https://www.frontendmentor.io/challenges?types=free) that you can try to improve your skills in the foundation of web development: HTML, CSS and Javascript. You will see my projects or challenges solved in each phase below and any comment or sugestion is welcomed.
-## Phase 1. Responsive Web Design 🌍
-Projects developed with plain HTML and CSS:
-- [x] Challenge 1. [Order summary component](https://github.com/gusanchefullstack/prj-01-order-summary-component)  
-- [x] Challenge 2. [Stats preview card component](https://github.com/gusanchefullstack/prj-02-stats-preview-card-component)
-- [x] Challenge 3. [3-column preview card component](https://github.com/gusanchefullstack/prj-03-3column-preview-card-component)
-- [x] Challenge 4. [Profile card component](https://github.com/gusanchefullstack/prj-04-profile-card-component)
-- [x] Challenge 5. [Testimonials grid section](https://github.com/gusanchefullstack/prj-05-testimonials-grid-section)
-- [x] Challenge 6. [Social proof section](https://github.com/gusanchefullstack/prj-06-social-proof-section)
-- [x] Challenge 7. [Chat app CSS illustration](https://github.com/gusanchefullstack/prj-07-chat-app-css-illustration)
-- [x] Challenge 8. [Fylo data storage component challenge](https://github.com/gusanchefullstack/prj-08-fylo-data-storage-component)
 
-Projects developed with HTML, TailwindCSS and Vitejs as frontende development environment integrated to Vercel.
-- [x] Challenge 9. [Four card feature section challenge](https://github.com/gusanchefullstack/prj-09-four-card-feature-section)
-- [x] Challenge 10. [Single price grid component](https://github.com/gusanchefullstack/prj-10-single-price-grid-component)
-- [x] Challenge 11. [Clipboard landing page](https://github.com/gusanchefullstack/prj-11-clipboard-landing-page)
-- [x] Challenge 12. [NFT preview card component](https://github.com/gusanchefullstack/prj-12-nft-preview-card-component) 
-- [x] Challenge 13. [Huddle landing page with single introductory section](https://github.com/gusanchefullstack/prj-13-huddle-landing-page-with-single-introductory-section)
-- [x] Challenge 14. [Fylo landing page with two column layout solution](https://github.com/gusanchefullstack/prj-14-fylo-landing-page-with-two-column-layout) 
-- [x] Challenge 15. [Huddle landing page with alternating feature blocks solution](https://github.com/gusanchefullstack/prj-15-huddle-landing-page-with-alternating-feature-blocks) 
-- [x] Challenge 16. [Huddle landing page with curved sections](https://github.com/gusanchefullstack/prj-16-huddle-landing-page-with-curved-sections)
+## About Me
 
-## Phase 2. JavaScript Algorithms and Data Structures 🚀
+I'm a fullstack developer from Colombia, currently based in Cartagena, building fast, reliable, and beautiful web applications. My work lives at the intersection of frontend craft, backend systems, and AI-assisted development. I follow a self-directed learning path anchored in [freeCodeCamp](https://www.freecodecamp.org/gusanchedev) and [Frontend Mentor](https://www.frontendmentor.io), shipping real projects at every phase.
 
-Projects developed with plain HTML, CSS/Tailwindcss and Javascript
-- [x] Challenge 1. [Intro component with sign up form solution](https://github.com/gusanchefullstack/prj-01-intro-component-with-signup-form) 
-- [x] Challenge 2. [Article preview component](https://github.com/gusanchefullstack/prj-02-article-preview-component)
-- [x] Challenge 3. [Ping coming soon page solution](https://github.com/gusanchefullstack/prj-03-ping-single-column-coming-soon-page) 
-- [x] Challenge 4. [Base Apparel coming soon page](https://github.com/gusanchefullstack/prj-04-base-apparel-coming-soon-page)
-- [x] Challenge 5. [FAQ accordion card](https://github.com/gusanchefullstack/prj-05-faq-accordion-card) 
-## Phase 3. Front End Development Libraries 📚
-## Phase 4. Data Visualization 📊
-## Phase 5. Back End Development and APIs 🏗
-## Phase 6. Internet of Things (IoT) Applications 🚰
 ---
-## &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gusanchefullstack&hide=java,html,css&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+## Tools & Technologies
 
-[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=gusanchefullstack&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+**Frontend**
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=gusanche)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+
+**API**
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+
+**AI**
+
+![Claude Code](https://img.shields.io/badge/Claude_Code-CC785C?style=flat&logo=anthropic&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white)
+
+**Database**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+
+**Dev Tools**
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+
+---
+
+## Featured Projects
+
+| Project | Description | Stack | Links |
+|---|---|---|---|
+| **Budgeteer** | Full-stack personal budgeting app with hierarchical categories, calendar-based tracking and multi-budget support | React · TypeScript · Express · Prisma · MongoDB · TanStack Query · Tailwind CSS | [Source](https://github.com/gusanchefullstack/budgeteerApp) |
+| **Shortly** | Responsive URL shortening landing page integrating the CleanURI API with persistent history via localStorage | React 19 · TypeScript · Vite · CSS Modules · Vitest | [Live](https://fsdev-url-shortening-api-landing-pa.vercel.app) · [Source](https://github.com/gusanchefullstack/fsdev-url-shortening-api-landing-page) |
+| **Savings Tracker** | Savings goals SPA with full CRUD, deposit tracking and visual progress charts | React 19 · TypeScript · Vite · Recharts · CSS Modules | [Live](https://fsdev-savings-tracker-dev.vercel.app) · [Source](https://github.com/gusanchefullstack/fsdev-savings-tracker) |
+| **IP Address Tracker** | Single-page app that maps any IP or domain on an interactive Leaflet map using the IPify API | React 19 · TypeScript · Vite · Leaflet · Axios | [Live](https://fsdev-ip-address-tracker-dev.vercel.app) · [Source](https://github.com/gusanchefullstack/fsdev-ip-address-tracker) |
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gusanchefullstack&hide=java,html,css&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gusanchefullstack&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=gusanchefullstack&theme=cobalt)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## Find Me Online
+
+<a href="https://www.linkedin.com/in/gustavosanchezgalarza/">
+  <img src="https://img.shields.io/badge/LinkedIn-gustavosanchezgalarza-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://github.com/gusanchefullstack">
+  <img src="https://img.shields.io/badge/GitHub-gusanchefullstack-181717?style=flat&logo=github&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://hashnode.com/@gusanchedev">
+  <img src="https://img.shields.io/badge/Hashnode-@gusanchedev-2962FF?style=flat&logo=hashnode&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://x.com/gusanchedev">
+  <img src="https://img.shields.io/badge/X-@gusanchedev-000000?style=flat&logo=x&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://bsky.app/profile/gusanchedev.bsky.social">
+  <img src="https://img.shields.io/badge/Bluesky-gusanchedev.bsky.social-0285FF?style=flat&logo=bluesky&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://www.freecodecamp.org/gusanchedev">
+  <img src="https://img.shields.io/badge/freeCodeCamp-gusanchedev-0A0A23?style=flat&logo=freecodecamp&logoColor=white" />
+</a>
+
+---
+
+<div align="center">
+  <sub>📧 <a href="mailto:hello@gustavosanchez.dev">hello@gustavosanchez.dev</a> &nbsp;|&nbsp; 🌐 <a href="https://gustavosanchez.dev">gustavosanchez.dev</a></sub>
+</div>
