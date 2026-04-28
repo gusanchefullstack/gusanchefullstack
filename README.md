@@ -73,7 +73,7 @@ I'm a fullstack developer from Colombia, currently based in Cartagena, building 
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gusanchefullstack&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=gusanchefullstack&theme=cobalt)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=gusanchefullstack&theme=blux)](https://git.io/streak-stats)
 
 </div>
 
