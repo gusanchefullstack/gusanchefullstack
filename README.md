@@ -2,7 +2,7 @@
 
 <div align="center">
   <p>Software Engineer focused in fullstack applications &amp; always in <strong>learning mode</strong></p>
-  <p>📍 San Francisco, CA / Remote / Worldwide &nbsp;&nbsp;|&nbsp;&nbsp; 💼 Open to full-time roles</p>
+  <p>📍 San Francisco, CA &nbsp;&nbsp;|&nbsp;&nbsp; 💼 Open to full-time roles hybrid or remote</p>
   <a href="https://gustavosanchez.dev">🌐 gustavosanchez.dev</a>
 </div>
 
