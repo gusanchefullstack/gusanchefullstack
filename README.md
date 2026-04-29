@@ -10,7 +10,7 @@
 
 ## About Me
 
-I'm a fullstack developer from Colombia, currently based in Cartagena, building fast, reliable, and beautiful web applications. My work lives at the intersection of frontend craft, backend systems, and AI-assisted development. I follow a self-directed learning path anchored in [freeCodeCamp](https://www.freecodecamp.org/gusanchedev) and [Frontend Mentor](https://www.frontendmentor.io), shipping real projects at every phase.
+I'm a software engineer from Colombia, currently based in San Francisco - CA, building fast, reliable, and beautiful web applications. My work lives at the intersection of frontend craft, backend systems, and AI-assisted development. I follow a self-directed learning path anchored in [freeCodeCamp](https://www.freecodecamp.org/gusanchedev) and [Frontend Mentor](https://www.frontendmentor.io), shipping real projects at every phase.
 
 <br/>
 
