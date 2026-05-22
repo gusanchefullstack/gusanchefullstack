@@ -10,7 +10,7 @@
 
 ## About Me
 
-I'm a software engineer from Colombia, currently based in San Francisco - CA, building fast, reliable, and beautiful web applications. My work lives at the intersection of frontend craft, backend systems, and AI-assisted development. I follow a self-directed learning path anchored in [freeCodeCamp](https://www.freecodecamp.org/gusanchedev) and [Frontend Mentor](https://www.frontendmentor.io), shipping real projects at every phase.
+I'm a software engineer from Colombia, currently based in San Francisco - CA, building fast, reliable, and beautiful web applications. My work lives at the intersection of frontend craft, backend systems, and AI-assisted development. I follow a self-directed learning path anchored in [freeCodeCamp](https://www.freecodecamp.org/gusanchedev), [FrontendMasters](https://frontendmasters.com/u/gustavosanchezdev/) and [Frontend Mentor](https://www.frontendmentor.io), shipping real projects at every phase.
 
 <br/>
 
@@ -28,6 +28,7 @@ I'm a software engineer from Colombia, currently based in San Francisco - CA, bu
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next&logoColor=white)
 
 **API**
 
