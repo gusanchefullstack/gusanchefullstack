@@ -1,7 +1,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0D1117,1B2A4A&height=220&section=header&text=Gustavo%20Sanchez&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20at%20the%20Intersection%20of%20Software%20Engineering%2C%20AI%20and%20Sales&descAlignY=56&descAlign=50&descSize=18)
 
 <div align="center">
-  <p>Software Engineer focused in fullstack applications &amp; always in <strong>learning mode</strong></p>
+  <p>Software Engineer focused in fullstack (Frontend & Backend) applications &amp; always in <strong>learning mode</strong></p>
   <p>📍 San Francisco, CA &nbsp;&nbsp;|&nbsp;&nbsp; 💼 Open to full-time roles hybrid or remote</p>
   <a href="https://gustavosanchez.dev">🌐 gustavosanchez.dev</a>
 </div>
