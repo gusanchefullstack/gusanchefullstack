@@ -86,6 +86,9 @@ I'm a software engineer from Colombia, currently based in San Francisco - CA, bu
 
 [![Gustavo's GitHub stats](https://github-stats-extended.vercel.app/api?username=gusanchefullstack)](https://github.com/stats-organization/github-stats-extended)
 
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=gusanchefullstack)](https://github.com/stats-organization/github-stats-extended)
+
+[![Alan's WakaTime stats](https://github-stats-extended.vercel.app/api/wakatime?username=gusanchefullstack)](https://wakatime.com/@gusanchefullstack)
 </div>
 
 <br/>
