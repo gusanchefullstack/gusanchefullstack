@@ -82,13 +82,25 @@ I'm a software engineer from Colombia, currently based in San Francisco - CA, bu
 
 ## GitHub Stats
 
-<div align="left">
-
-[![Gustavo's GitHub stats](https://github-stats-extended.vercel.app/api?username=gusanchefullstack)](https://github.com/stats-organization/github-stats-extended)
-
-[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=gusanchefullstack)](https://github.com/stats-organization/github-stats-extended)
-
-[![Alan's WakaTime stats](https://github-stats-extended.vercel.app/api/wakatime?username=gusanchefullstack)](https://wakatime.com/@alan)
+<div align="center">
+  <a href="https://github-stats-extended.vercel.app/api?username=gusanchefullstack">
+  <picture>
+    <source
+      srcset="https://github-stats-extended.vercel.app/api?username=gusanchefullstack&theme=dark_github"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img height="200" align="center" src="https://github-stats-extended.vercel.app/api?username=gusanchefullstack&theme=light_github" />
+  </picture>
+</a>
+<a href="https://github-stats-extended.vercel.app/api/top-langs?username=gusanchefullstack&layout=compact&langs_count=8&card_width=320">
+  <picture>
+    <source
+      srcset="https://github-stats-extended.vercel.app/api/top-langs?username=gusanchefullstack&layout=compact&langs_count=8&card_width=320&theme=dark_github"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img height="200" align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=gusanchefullstack&layout=compact&langs_count=8&card_width=320&theme=light_github" />
+  </picture>
+</a>
 </div>
 
 <br/>
