@@ -84,11 +84,7 @@ I'm a software engineer from Colombia, currently based in San Francisco - CA, bu
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gusanchefullstack&hide=java,html,css&layout=compact&theme=cobalt&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_color=1B2A4A)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gusanchefullstack&show_icons=true&theme=cobalt&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&border_color=1B2A4A)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=gusanchefullstack&theme=cobalt&background=0D1117&border=1B2A4A&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF)](https://git.io/streak-stats)
+[![Gustavo's GitHub stats](https://github-stats-extended.vercel.app/api?username=gusanchefullstack)](https://github.com/stats-organization/github-stats-extended)
 
 </div>
 
