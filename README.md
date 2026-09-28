@@ -93,7 +93,7 @@ This new time demands from us an always be learning mindset.
       srcset="https://github-stats-extended.vercel.app/api?username=gusanchefullstack&theme=dark_github"
       media="(prefers-color-scheme: dark)"
     />
-    <img height="200" align="center" src="https://github-stats-extended.vercel.app/api?username=gusanchefullstack&theme=light_github" />
+    <img height="200" align="center" src="https://github-stats-extended.vercel.app/api?username=gusanchefullstack&theme=shades-of-purple" />
   </picture>
 </a>
 <a href="https://github-stats-extended.vercel.app/api/top-langs?username=gusanchefullstack&layout=compact&langs_count=8&card_width=320">
