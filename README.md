@@ -11,8 +11,12 @@
 
 ## About Me
 
-I'm a software engineer from Colombia, currently based in San Francisco - CA, building fast, reliable, and beautiful web applications. My work lives at the intersection of frontend craft, backend systems, and AI-assisted development. I follow a self-directed learning path anchored in [freeCodeCamp](https://www.freecodecamp.org/gusanchedev), [FrontendMasters](https://frontendmasters.com/u/gustavosanchezdev/) and [Frontend Mentor](https://www.frontendmentor.io), shipping real projects at every phase.
+I’m an engineer (in electronic and telecommunications) from Colombia 🇨🇴. Recently I moved to the US and I’m dedicated to continue my pathway as software engineer.
+I love to build modern web experiences using clean code, thoughtful architectures and great user interfaces. Because today the operational part of coding is already AI assisted or even replaced, the key contributions of an engineer are judgment and business acumen to understand why and when to build, execution planning to orchestrate AI agents and to make decisions about architecture and integrations based in solid technical background and systems design.
 
+In this new journey of my career I want to craft software solutions leveraging my previous knowledge of systems engineering and software B2B sales to combine them with new learnings about Artificial Intelligence for designing, developing and deployment of powerful AI apps.
+
+This new time demands from us an always be learning mindset.
 <br/>
 
 ## Tools & Technologies
