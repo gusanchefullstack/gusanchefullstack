@@ -140,9 +140,3 @@ This new time demands from us an always be learning mindset.
 </a>
 
 </div>
-
-<br/>
-
-<div align="center">
-  <a href="mailto:hello@gustavosanchez.dev">hello@gustavosanchez.dev</a>
-</div>
