@@ -61,6 +61,7 @@ This new time demands from us an always be learning mindset.
 
 | Project | Description | Stack | Links |
 |---|---|---|---|
+| **IdiomsMasterGirl** | Local-first daily English idiom practice partner: learn one idiom a day, then say it and write it with AI feedback on speech and writing. Spec-driven | Next.js 16 · React 19 · TypeScript · Ollama (Gemma) · faster-whisper · Vitest | [Source](https://github.com/gusanchefullstack/idioms-master-girl) |
 | **Nelson Frontend** | Personal budget web app that turns planned paychecks and bills into buckets that fill as money moves, with charts, auth and WCAG 2.2 AA accessibility. Spec-driven | React 19 · TypeScript · Vite · Tailwind 4 · TanStack Router & Query · Better Auth | [Live](https://fsdev-nelson-frontend.vercel.app) · [Source](https://github.com/gusanchefullstack/fsdev-nelson-frontend) |
 | **FX Checker** | Currency converter with live central-bank rates, rate-history charts, multi-currency compare, favorites and CSV export. Spec-driven | React 19 · TypeScript · Vite · CSS Modules · Vitest | [Live](https://fsdev-foreign-exchange-checker.vercel.app) · [Source](https://github.com/gusanchefullstack/fsdev-foreign-exchange-checker) |
 | **GitHub User Search App** | Looks up any GitHub user via the REST API with light/dark themes and friendly error states. Spec-driven | React 19 · TypeScript · Vite · CSS Modules · Vitest | [Live](https://fsdev-github-user-search-app.vercel.app) · [Source](https://github.com/gusanchefullstack/fsdev-github-user-search-app) |
